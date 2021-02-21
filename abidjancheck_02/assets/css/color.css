@@ -29,8 +29,8 @@ a.active,
 .widget_pages li a:hover,
 .main-header .main-nav ul li.current-menu-item > a,
 .sidebar-right .post-title:hover a,
-.main-header .main-nav ul li:hover > a{color:#f2546a;}
-a.text-muted:hover{color:#f2546a!important;}
+.main-header .main-nav ul li:hover > a{color:#1b9BD7;}
+a.text-muted:hover{color:#1b9BD7!important;}
 h1,
 h2,
 h3,
@@ -54,14 +54,14 @@ h6{color:#212d45;}
 .blog_right_sidebar .search_widget .input-group button,
 .main-header .main-nav ul li.current-menu-item > a::after,
 .pagination-area .page-item.active .page-link,
-.main-header .main-nav ul li:hover > a::after{background:#f2546a;}
+.main-header .main-nav ul li:hover > a::after{background:#1b9BD7;}
 
 /*Border*/
 .main-header .main-menu ul ul.sub-menu,
 .boxed-btn,
 .boxed-btn:hover,
 .slick-dots li.slick-active button,
-.featured-slider-2-nav .slick-active img{border-color:#f2546a;}
+.featured-slider-2-nav .slick-active img{border-color:#1b9BD7;}
 .border-color-1{border-color:#ececec;}
 
 /*Secondary color*/
@@ -69,7 +69,7 @@ h6{color:#212d45;}
 .tab-nav.style-1 .nav-link:hover{background:#212d45;}
 
 /*Gradient*/
-.blog_area a:hover{background:-webkit-linear-gradient(131deg,#f2546a 0%,#f2546a 99%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;text-decoration:none;transition:.4s}
+.blog_area a:hover{background:-webkit-linear-gradient(131deg,#1b9BD7 0%#1b9BD7 99%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;text-decoration:none;transition:.4s}
 
 /*OTHER COLORS*/
 
@@ -80,7 +80,7 @@ button.search-icon,
 ul.header-social-network li a{color:#506172;}
 button.subscribe{border-color:#1d55c1;color:#1d55c1;}
 button.subscribe:hover{background:#1d55c1;color:#fff;}
-.color1{color:#ff2d55;}
+.color1{color:#1b9BD7;}
 .color2{color:#007aff;}
 .color3{color:#4cd964;}
 .color4{color:#5856d6;}
@@ -92,7 +92,7 @@ button.subscribe:hover{background:#1d55c1;color:#fff;}
 .background5{background:#ffcc00;}
 .background6{background:#d4f4f9;}
 .background7{background:#4e6788;}
-.background8{background:#f2546a;}
+.background8{background:#1b9BD7;}
 .background9{background:#752279;}
 .background10{background:#379499;}
 .background11{background:#010f22;}
