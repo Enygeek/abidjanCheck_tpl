@@ -73,7 +73,7 @@ a,
 a:focus,
 .button:focus{text-decoration:none;outline:none}
 a{color:#171616;}
-a:hover{color:#f2546a;}
+a:hover{color:#1b9BD7;}
 a:focus,
 a:hover,
 .portfolio-cat a:hover,
@@ -175,7 +175,7 @@ button.slick-arrow,
 button.search-icon{cursor:pointer;}
 
 /*Gradient*/
-.gradient-bg-1{background:rgb(226,70,92);background:-webkit-linear-gradient(left,rgba(226,70,92,1) 0%,rgba(254,65,65,1) 50%,rgba(255,185,87,1) 100%);background:-o-linear-gradient(left,rgba(226,70,92,1) 0%,rgba(254,65,65,1) 50%,rgba(255,185,87,1) 100%);background:linear-gradient(to right,rgba(226,70,92,1) 0%,rgba(254,65,65,1) 50%,rgba(255,185,87,1) 100%);}
+.gradient-bg-1{background:rgb(27,155,215);background:-webkit-linear-gradient(left,rgba(26,155,215,1) 0%,rgb(26, 165, 198,1) 50%,rgb(146, 172, 33) 100%);background:-o-linear-gradient(left,rgba(26,155,215,1) 0%,rgba(26, 155, 215) 50%,rgba(146, 172, 33,1) 100%);background:linear-gradient(to right,rgba(26,155,215,1) 0%,rgba(26, 155, 210) 50%,rgba(146, 172, 33,1) 100%);}
 
 /*Header*/
 h1.logo-text{font-size:20px;font-weight:600;margin-left:5px;margin-bottom:0;line-height:1;margin-top:7px;}
