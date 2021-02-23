@@ -262,7 +262,11 @@
             },5000); 
         });
     } catch(er) {console.log(er);}
-            
+
+
+    //
+    // 
+    // 
 
     // Scroll progress
     var scrollProgress = function() {
