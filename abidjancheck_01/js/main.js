@@ -264,4 +264,34 @@
     } catch(er) {console.log(er);}
             
 
+    // Scroll progress
+    var scrollProgress = function() {
+        var docHeight = $(document).height(),
+            windowHeight = $(window).height(),
+            scrollPercent;
+        $(window).on('scroll', function() {
+            scrollPercent = $(window).scrollTop() / (docHeight - windowHeight) * 100;
+            $('.scroll-progress').width(scrollPercent + '%');
+        });
+    };
+
+    //Load functions
+    $(document).ready(function() {
+        toolTip();
+        OffCanvas();
+        customScrollbar();
+        numberCounter();
+        megaMenu();
+        magPopup();
+        scrollToTop();
+        headerSticky();
+        stickySidebar();
+        customSlickSlider();
+        mobileMenu();
+        scrollProgress();
+        niceSelectBox();
+        openSearchForm();
+        wowJs();
+        VSticker();
+    });
 })(jQuery);
