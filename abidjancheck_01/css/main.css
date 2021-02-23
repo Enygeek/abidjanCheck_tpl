@@ -1834,6 +1834,9 @@ a.breadcrumb-item:hover {
 .wrap-pic-max-s > img {max-width: 100%; max-height: 100%;}
 
 
+/* =================================================================
+    NEW UPDATE ADD
+==================================================================== */
 .scroll-progress{height:3px;width:0px;z-index:9999999;position:absolute;bottom:-3px;}
 /*Gradient*/
 .gradient-bg-1
@@ -1843,6 +1846,24 @@ a.breadcrumb-item:hover {
   background:-o-linear-gradient(left,rgba(26,155,215,1) 0%,rgba(26, 155, 215) 50%,rgba(146, 172, 33,1) 100%);
   background:linear-gradient(to right,rgba(26,155,215,1) 0%,rgba(26, 155, 210) 50%,rgba(146, 172, 33,1) 100%);
 }
+.img-hover-scale{overflow:hidden;position:relative;}
+.img-hover-scale img{-webkit-transition:-webkit-transform .5s;transition:-webkit-transform .5s;-o-transition:transform .5s;transition:transform .5s;transition:transform .5s,-webkit-transform .5s;}
+.img-hover-scale:hover img{-webkit-transform:scale(1.1);-ms-transform:scale(1.1);transform:scale(1.1);-webkit-transition:-webkit-transform .5s;transition:-webkit-transform .5s;-o-transition:transform .5s;transition:transform .5s;transition:transform .5s,-webkit-transform .5s;}
+.img-hover-slide{background-repeat:no-repeat;background-size:cover;background-position:center center;-webkit-backface-visibility:hidden;min-height:280px;overflow:hidden;-o-transition:all 0.4s ease;transition:all 0.4s ease;-webkit-transition:all 0.4s ease;-moz-transition:all 0.4s ease;-ms-transition:all 0.4s ease;}
+.entry-header-3 .img-hover-slide{min-height:380px;}
+.post-thumb:hover .img-hover-slide,
+.single-header-2:hover .img-hover-slide{background-position:30%;-o-transition:all 0.4s ease;transition:all 0.4s ease;-webkit-transition:all 0.4s ease;-moz-transition:all 0.4s ease;-ms-transition:all 0.4s ease;}
+.img-link{display:block;width:100%;height:100%;position:absolute;z-index:1;}
+.thumb-overlay{position:relative;}
+.thumb-overlay::before{position:absolute;content:"";width:100%;height:100%;left:0;top:0;border-radius:5px;-webkit-border-radius:5px;-ms-border-radius:5px;background:-webkit-gradient(linear,left top,left bottom,color-stop(50%,transparent),to(rgba(0,0,0,.8)));background:-webkit-linear-gradient(top,transparent 50%,rgba(0,0,0,.8) 100%);background:-o-linear-gradient(top,transparent 50%,rgba(0,0,0,.8) 100%);background:linear-gradient(to bottom,transparent 50%,rgba(0,0,0,.8) 100%);-o-transition:all 0.4s ease;transition:all 0.4s ease;-webkit-transition:all 0.4s ease;-moz-transition:all 0.4s ease;-ms-transition:all 0.4s ease}
+.thumb-overlay:hover::before{background-color:rgba(0,0,0,.2)}
+.transition-ease-04{-o-transition:all 0.4s ease;transition:all 0.4s ease;-webkit-transition:all 0.4s ease;-moz-transition:all 0.4s ease;-ms-transition:all 0.4s ease;}
+
+
+
+
+
+
 
 /*==================================================================
   GESTION DE LA RESPONSIVITE - RESIZE DISPLAY W TO VIEWSPORT
