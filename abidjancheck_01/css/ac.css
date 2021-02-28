@@ -118,6 +118,45 @@ a.read-more{font-size:12px;border-radius:30px;border:1px solid #abd7ab;padding:5
 
 
 
+  
+  /* Shadow  */
+  .shadow-light {
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+  }
+
+
+  /* Height */
+  .h-1{
+    height: 1px;
+  }
+  .h-2{
+    height: 2px;
+  }
+  .h-3{
+    height: 3px;
+  }
+  .h-4{
+    height: 4px;
+  }
+  .h-5{
+    height: 5px;
+  }
+  .h-6{
+    height: 6px;
+  }
+  .h-7{
+    height: 7px;
+  }
+  .h-8{
+    height: 8px;
+  }
+  .h-9{
+    height: 9px;
+  }
+  .h-10{
+    height: 10px;
+  }
+
 
 
 
