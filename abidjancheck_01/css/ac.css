@@ -444,3 +444,455 @@ a.read-more{font-size:12px;border-radius:30px;border:1px solid #abd7ab;padding:5
 .pr-195{padding-right:195px!important}
 .pr-200{padding-right:200px!important}
 .bt-1{border-top:1px solid;}
+
+
+/* ==========================================================================
+                            *** ANIMATION ***
+   ========================================================================== */
+
+   /* ==========================================================================
+                            *** APPEL DES ANIMATIONS ***
+   ========================================================================== */
+
+   .moveInTop-0-1s {
+    animation: moveInTop .8s ease-out;
+   }
+   .moveInTop-0-2s {
+    animation: moveInTop .8s ease-out;
+   }
+   .moveInTop-0-3s {
+    animation: moveInTop .8s ease-out;
+   }
+   .moveInTop-0-4s {
+    animation: moveInTop .8s ease-out;
+   }
+   .moveInTop-demi {
+    animation: moveInTop .5s ease-out;
+   }
+   .moveInTop-0-6s {
+    animation: moveInTop .8s ease-out;
+   }
+   .moveInTop-0-7s {
+    animation: moveInTop .8s ease-out;
+   }
+   .moveInTop-0-8s {
+    animation: moveInTop .8s ease-out;
+   }
+   .moveInTop-0-9s {
+    animation: moveInTop .8s ease-out;
+   }
+   .moveInTop-1s {
+    animation: moveInTop 1s ease-out;
+   }
+   .moveInTop-1-2s {
+    animation: moveInTop 1s ease-out;
+   }
+   .moveInTop-1-3s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-1-4s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-1-5s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-1-6s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-1-7s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-1-8s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-1-9s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-2s {
+    animation: moveInTop 2s ease-out;
+   }
+   .moveInTop-2-1s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-2-3s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-2-4s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-2-5s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-2-6s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-2-7s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-2-8s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-2-9s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-1-4s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-1-5s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-1-6s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-1-7s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-1-8s {
+    animation: moveInTop 1.8s ease-out;
+   }
+   .moveInTop-3s {
+    animation: moveInTop 1.8s ease-out;
+   }
+
+
+
+
+
+   .moveInBottom-0-1s {
+    animation: moveInBottom .8s ease-out;
+   }
+   .moveInBottom-0-2s {
+    animation: moveInBottom .8s ease-out;
+   }
+   .moveInBottom-0-3s {
+    animation: moveInBottom .8s ease-out;
+   }
+   .moveInBottom-0-4s {
+    animation: moveInBottom .8s ease-out;
+   }
+   .moveInBottom-demi {
+    animation: moveInBottom .5s ease-out;
+   }
+   .moveInBottom-0-6s {
+    animation: moveInBottom .8s ease-out;
+   }
+   .moveInBottom-0-7s {
+    animation: moveInBottom .8s ease-out;
+   }
+   .moveInBottom-0-8s {
+    animation: moveInBottom .8s ease-out;
+   }
+   .moveInBottom-0-9s {
+    animation: moveInBottom .8s ease-out;
+   }
+   .moveInBottom-1s {
+    animation: moveInBottom 1s ease-out;
+   }
+   .moveInBottom-1-2s {
+    animation: moveInBottom 1s ease-out;
+   }
+   .moveInBottom-1-3s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-1-4s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-1-5s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-1-6s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-1-7s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-1-8s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-1-9s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-2s {
+    animation: moveInBottom 2s ease-out;
+   }
+   .moveInBottom-2-1s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-2-3s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-2-4s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-2-5s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-2-6s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-2-7s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-2-8s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-2-9s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-1-4s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-1-5s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-1-6s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-1-7s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-1-8s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   .moveInBottom-3s {
+    animation: moveInBottom 1.8s ease-out;
+   }
+   
+
+
+
+
+   .moveInRigth-0-1s {
+    animation: moveInRigth .8s ease-out;
+   }
+   .moveInRigth-0-2s {
+    animation: moveInRigth .8s ease-out;
+   }
+   .moveInRigth-0-3s {
+    animation: moveInRigth .8s ease-out;
+   }
+   .moveInRigth-0-4s {
+    animation: moveInRigth .8s ease-out;
+   }
+   .moveInRigth-demi {
+    animation: moveInRigth .5s ease-out;
+   }
+   .moveInRigth-0-6s {
+    animation: moveInRigth .8s ease-out;
+   }
+   .moveInRigth-0-7s {
+    animation: moveInRigth .8s ease-out;
+   }
+   .moveInRigth-0-8s {
+    animation: moveInRigth .8s ease-out;
+   }
+   .moveInRigth-0-9s {
+    animation: moveInRigth .8s ease-out;
+   }
+   .moveInRigth-1s {
+    animation: moveInRigth 1s ease-out;
+   }
+   .moveInRigth-1-2s {
+    animation: moveInRigth 1s ease-out;
+   }
+   .moveInRigth-1-3s {
+    animation: moveInRigth 1.8s ease-out;
+   }
+   .moveInRigth-1-4s {
+    animation: moveInRigth 1.8s ease-out;
+   }
+   .moveInRigth-1-5s {
+    animation: moveInRigth 1.8s ease-out;
+   }
+   .moveInRigth-1-6s {
+    animation: moveInRigth 1.8s ease-out;
+   }
+   .moveInRigth-1-7s {
+    animation: moveInRigth 1.8s ease-out;
+   }
+   .moveInRigth-1-8s {
+    animation: moveInRigth 1.8s ease-out;
+   }
+   .moveInRigth-1-9s {
+    animation: moveInRigth 1.8s ease-out;
+   }
+   .moveInRigth-2s {
+    animation: moveInRigth 2s ease-out;
+   }
+
+
+
+   .moveInLeft-0-1s {
+    animation: moveInLeft .8s ease-out;
+   }
+   .moveInLeft-0-2s {
+    animation: moveInLeft .8s ease-out;
+   }
+   .moveInLeft-0-3s {
+    animation: moveInLeft .8s ease-out;
+   }
+   .moveInLeft-0-4s {
+    animation: moveInLeft .8s ease-out;
+   }
+   .moveInLeft-demi {
+    animation: moveInLeft .5s ease-out;
+   }
+   .moveInLeft-0-6s {
+    animation: moveInLeft .8s ease-out;
+   }
+   .moveInLeft-0-7s {
+    animation: moveInLeft .8s ease-out;
+   }
+   .moveInLeft-0-8s {
+    animation: moveInLeft .8s ease-out;
+   }
+   .moveInLeft-0-9s {
+    animation: moveInLeft .8s ease-out;
+   }
+   .moveInLeft-1s {
+    animation: moveInLeft 1s ease-out;
+   }
+   .moveInLeft-1-2s {
+    animation: moveInLeft 1s ease-out;
+   }
+   .moveInLeft-1-3s {
+    animation: moveInLeft 1.8s ease-out;
+   }
+   .moveInLeft-1-4s {
+    animation: moveInLeft 1.8s ease-out;
+   }
+   .moveInLeft-1-5s {
+    animation: moveInLeft 1.8s ease-out;
+   }
+   .moveInLeft-1-6s {
+    animation: moveInLeft 1.8s ease-out;
+   }
+   .moveInLeft-1-7s {
+    animation: moveInLeft 1.8s ease-out;
+   }
+   .moveInLeft-1-8s {
+    animation: moveInLeft 1.8s ease-out;
+   }
+   .moveInLeft-1-9s {
+    animation: moveInLeft 1.8s ease-out;
+   }
+   .moveInLeft-2s {
+    animation: moveInLeft 2s ease-out;
+   }
+
+
+
+   .allerRetour-2s {
+    animation: allerRetour 2s ease-out;
+   }
+
+
+   /* ROTATION*/
+   .rotation {
+    animation: wheel 2s infinite linear;
+    transform-origin: center;
+    transform-box: fill-box;
+    animation: allerRetour 2s ease-out;
+   }
+
+
+
+
+
+
+
+
+  /* ==========================================================================
+                            *** CONSTRUCTION DES ANIMATIONS ***
+   ========================================================================== */
+  @keyframes moveInTop{
+    0%{
+        opacity: 0;
+        transform: translateY(100px);
+    }
+    80%{
+        transform: translateY(-10px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0);
+    }
+  }
+  
+  
+  @keyframes moveInBottom{
+    0%{
+        opacity: 0;
+        transform: translateY(-100px);
+    }
+    80%{
+        transform: translateY(10px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0);
+    }
+  }
+  
+  @keyframes moveInLeft{
+    0%{
+        opacity: 0;
+        transform: translateX(-100px);
+    }
+    80%{
+        transform: translateX(10px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateX(0);
+    }
+  }
+  
+  @keyframes moveInRigth{
+    0%{
+        opacity: 0;
+        transform: translateX(100px);
+    }
+    80%{
+        transform: translateX(-10px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateX(0);
+    }
+  }
+  
+  @keyframes allerRetour{
+    0%{
+        opacity: 0;
+        transform: translateX(-100px);
+    }
+    50%{
+        margin-left: 0px;
+    }
+    80%{
+        transform: translateX(-10px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateX(0);
+    }
+  }
+  
+  #zheader-btn {
+    animation: wheel 2s infinite linear;
+    transform-origin: center;
+    transform-box: fill-box;
+  }
+  
+  @keyframes wheel {
+    from {
+      transform: rotateZ(0deg);
+    }
+    to {
+      transform: rotateZ(360deg);
+    }
+  }
+  /* ====================================================================================
+     Copyright Abidjan Check 2021 | By : ITI GROUP 
+     ==================================================================================== */
