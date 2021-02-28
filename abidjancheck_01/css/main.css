@@ -1837,7 +1837,9 @@ a.breadcrumb-item:hover {
 /* =================================================================
     NEW UPDATE ADD
 ==================================================================== */
-.scroll-progress{height:3px;width:0px;z-index:9999999;position:absolute;bottom:-3px;}
+.scroll-progress{
+  height:3px;width:0px;z-index:9999999;position:absolute;bottom:-3px;
+}
 /*Gradient*/
 .gradient-bg-1
 {
@@ -1846,6 +1848,8 @@ a.breadcrumb-item:hover {
   background:-o-linear-gradient(left,rgba(26,155,215,1) 0%,rgba(26, 155, 215) 50%,rgba(146, 172, 33,1) 100%);
   background:linear-gradient(to right,rgba(26,155,215,1) 0%,rgba(26, 155, 210) 50%,rgba(146, 172, 33,1) 100%);
 }
+
+
 .img-hover-scale{overflow:hidden;position:relative;}
 .img-hover-scale img{-webkit-transition:-webkit-transform .5s;transition:-webkit-transform .5s;-o-transition:transform .5s;transition:transform .5s;transition:transform .5s,-webkit-transform .5s;}
 .img-hover-scale:hover img{-webkit-transform:scale(1.1);-ms-transform:scale(1.1);transform:scale(1.1);-webkit-transition:-webkit-transform .5s;transition:-webkit-transform .5s;-o-transition:transform .5s;transition:transform .5s;transition:transform .5s,-webkit-transform .5s;}
